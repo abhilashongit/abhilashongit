@@ -8,17 +8,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
   </a>
   
-  <a href="https://instantly.ai" target="_blank" rel="noreferrer">
-    <img src="https://instantly.ai/wp-content/uploads/2023/10/logo-1.svg" alt="Instantly.ai" width="40" height="40"/>
-  </a>
+
   
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/>
-  </a>
+
   
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+  
   
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudiocode/visualstudiocode-icon.svg" alt="VSCode" width="40" height="40"/>
