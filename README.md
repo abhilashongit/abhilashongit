@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Abhilash! [You can call me Andy!]
-[![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashongit)]
+![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashongit)
 
-<h3 align="left">My Go-To Tools and Technologies</h3>
+<h3 align="left">My top used apps for work/building stuff</h3>
 
 <p align="left">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
