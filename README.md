@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Abhilash! [You can call me Andy!]
-![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashongit)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilashongit&show_icons=true&theme=radical)
 
 <h3 align="left">My top used apps for work/building stuff</h3>
 
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashongit)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashongit)
 <!--
 **abhilashongit/abhilashongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
