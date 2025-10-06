@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an F1 geek and an aviation nerd, I love yapping about aerodynamics with regards to aircraft and f1 on twitter @abhilashsaysok. I'm a full-time Economics student, but I also work as a consultant in strategy, helping B2B firms grow their revenue and streamline operations to impact their topline. I also run Scenario 7 Media and Promotions, an independent agency that works with publication houses for technical analyses and also runs India's exclusive F1 reseller store at 60% of the official store prices only!
+I am an F1 geek and an aviation nerd, I love yapping about aerodynamics with regards to aircraft and f1 on twitter @abhilashsaysok. I'm a full-time Economics student, but I also work as a consultant in strategy, helping B2B firms grow their revenue and streamline operations to impact their topline. I also run Scenario 7 Media and Promotions, an independent agency that works with publication houses for technical analyses and also runs India's exclusive F1 reseller for merchandise.
 
 
 ## 🌐 Socials:
